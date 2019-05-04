@@ -21,3 +21,15 @@ npm run dev
 ```bash
 npm run build
 ```
+
+## Install
+
+    npm install serve-static
+    npm install connect
+
+## Start
+
+
+
+## Example
+https://vuejs.org/v2/examples/index.html
